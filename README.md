@@ -1,4 +1,4 @@
-# Basic Programming Language
+# The Boxcode Programming Language
 
 Welcome to the **BoxCode** project! This project aimed to create a simple programming language using Python. The project includes a lexer, parser, and interpreter for the language.
 
