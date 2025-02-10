@@ -9,4 +9,8 @@ This project was a personal challenge to create a language from scratch using Py
 - Simple syntax and structure
 - Lexer to tokenize the input code
 - Parser to generate an Abstract Syntax Tree (AST)
-- Interpreter to execute the parsed 
+- Interpreter to execute the parsed
+
+## Showcase
+![image](https://github.com/user-attachments/assets/44c4edf9-8429-430e-af40-13e47e60031d)
+
