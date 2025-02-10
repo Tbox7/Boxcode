@@ -1,7 +1,4 @@
 from tokens import Integer, Float, Operation, Declaration, Variable, Boolean, Comparison, Reserved
-
-# make varname = 50
-
 class Lexer:
     # while <expr> do <statement>
     digits = "0123456789"
