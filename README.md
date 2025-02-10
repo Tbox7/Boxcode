@@ -13,5 +13,6 @@ This project was a personal challenge to create a language from scratch using Py
 
 ## Showcase
 ![image](https://github.com/user-attachments/assets/44c4edf9-8429-430e-af40-13e47e60031d)
+
 ![image](https://github.com/user-attachments/assets/b1e327d8-560d-4e6b-93a7-b8848e4e3a08)
 In this image "create" is the key-word used to declare the variable where a = int(3)
