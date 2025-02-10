@@ -8,7 +8,7 @@ class Lexer:
     letters = "abcdefghijklmnopqrstuvwxyz"
     operations = "+-/*()="
     stopwords = [" "]
-    declarations = ["make"]
+    declarations = ["create"]
     boolean = ["and", "or", "not"]
     comparisons = [">", "<", ">=", "<=", "?="]
     specialCharacters = "><=?"
